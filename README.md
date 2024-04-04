@@ -16,11 +16,11 @@ Mon travail va nous permettre de déterminer si ce jeu de données peut informer
   - éducatif : pour cette meme tranche voir les niveaux lycée et universitaire
   - économique : le niveau de vie de la population
   - numérique : nous allons nous concentrer principalement sur l'accés à internet et l'accés à l'éléctricité
-Score pour classer le potentiel des pays
+- Score pour classer le potentiel des pays
 
 ## Source 
 
-Les données de la banque mondiale sont disponibles a l'adresse suivante: 
+Les données de la banque mondiale sont disponibles à l'adresse suivante: 
 [Source](https://datacatalog.worldbank.org/dataset/education-statistics)
 
 
