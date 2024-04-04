@@ -1,14 +1,16 @@
 # Mission - Analysez des donnees de Systemes Educatifs
-Certification OpenClassrooms - Parcours data scientist - Mission n°2 - Analysez des données de systèmes éducatifs
+Certification OpenClassrooms - Parcours data scientist - Mission n°2 - Analysez des données de systèmes éducatifs.
 
 ##Analyse de données de systèmes éducatifs
 
-##Source 
+## Source 
+
 Les données de la banque mondiale sont disponibles a l'adresse suivante: 
 [Source](https://datacatalog.worldbank.org/dataset/education-statistics)
 
-##Outils 
-https://user-images.githubusercontent.com/71518818/135879391-7add1129-8a27-4df5-a401-346e7e9ee358.png![image](https://github.com/bibakali/Mission-Analysez-des-donnees-de-Systemes-Educatifs/assets/28358329/b0e28d71-ffcb-4214-ab01-5666b357ab93)
+## Outils 
+
+[image](https://github.com/bibakali/Mission-Analysez-des-donnees-de-Systemes-Educatifs/assets/28358329/b0e28d71-ffcb-4214-ab01-5666b357ab93)
 
 ## Analyse pré-exploratoire
 
