@@ -7,7 +7,7 @@ L'entreprise souhaite effectuer un projet d’expansion à l’international. Po
 Quels sont les pays avec un fort potentiel de clients pour nos services ?
 Pour chacun de ces pays, comment ce potentiel pourrait évoluer ?
 
-## Axes d'orientations poyr analyse pré-exploratoire: 
+## Axes d'orientations pour analyse pré-exploratoire: 
 
 Mon travail va nous permettre de déterminer si ce jeu de données peut informer les décisions d'ouverture vers de nouveaux pays. La pré-analyse va consister à:
 - Valider la qualité, la quantité et la cohérence de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées , ...?)
