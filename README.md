@@ -23,8 +23,18 @@ Score pour classer le potentiel des pays
 Les données de la banque mondiale sont disponibles a l'adresse suivante: 
 [Source](https://datacatalog.worldbank.org/dataset/education-statistics)
 
+
 ## Outils 
 
 [image](https://github.com/bibakali/Mission-Analysez-des-donnees-de-Systemes-Educatifs/assets/28358329/b0e28d71-ffcb-4214-ab01-5666b357ab93)
+
+## Compétences 
+- Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration.
+- Mettre en place un environnement Python.
+- Effectuer une représentation graphique à l'aide d'une librairie Python adaptée.
+- Maîtriser les opérations fondamentales du langage Python pour la Data Science.
+- Manipuler des données avec des librairies Python spécialisées.
+
+
 
 
